@@ -1,3 +1,8 @@
 gptcache
-PIL
-steamlit
+pillow
+streamlit
+torch
+faiss-cpu
+torchaudio
+transformers
+sqlalchemy
